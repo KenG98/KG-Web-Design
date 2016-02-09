@@ -208,6 +208,10 @@ header .header-content .header-content-inner p {
 .service-box p {
   margin-bottom: 0;
 }
+.portfolio-box-img {
+  padding: 1px;
+  background: #405FF0;
+}
 .portfolio-box {
   position: relative;
   display: block;
