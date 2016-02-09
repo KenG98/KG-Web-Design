@@ -1,0 +1,6 @@
+steps it took:
+1) add CNAME file to gh-pages branch of directory
+2) Pull request, make gh-pages branch update the master branch
+3) in DNS create CNAME record of host "web" (for web.kgarber.com) points to keng98.github.io
+
+github uses the CNAME file, so when the web.kgarber.com points to keng98.github.io, github auto goes to the specific project repository.
